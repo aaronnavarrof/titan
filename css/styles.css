@@ -1,0 +1,113 @@
+.badge-info {
+    position: absolute;
+    top: 0px;
+}
+.portada{
+	height: 610px;
+}
+.nav-item{
+	padding-left: 12px;
+}
+#texto-portada{
+	position: relative;
+	top: -430px;
+	left: -20%;
+	z-index: 1;
+	width: 25%;
+}
+.boton{
+	color: white;
+	background: #2B72E6;
+	margin: 10px 0px 0px;
+	padding: 9px 15px;
+}
+.segunda{
+	background-color: white;
+}
+#diamond{
+	font-size: 40px;
+	color: #525252;
+	float: left;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.tercera{
+	background-color: #1b1b1b;
+}
+.estructura-tercera{
+	padding: 0 30px;
+}
+.col{
+	padding: 60px;
+}
+.col-int{
+	padding: 10px;
+	align-items: center;
+}
+.imagen{
+	font-size: 40px;
+}
+
+.cuarta{
+	background-color: #f9f9f9;
+	padding: 100px 0;
+}
+.titulo{
+	text-align: center;
+	margin-bottom: 70px;
+}
+
+h3{
+	padding-top: 20px;
+	padding-left: 60px;
+	font-size: 20px;
+}
+.bloque{
+	background-color: white;
+	margin-bottom: 60px;
+}
+#torre{
+	margin: 0;
+}
+.quinta{
+	background-color: #f9f9f9;
+	padding: 100px 0;
+}
+.sexta{
+	background-color: #525252;
+	padding: 0;
+
+}
+#bloque2{
+	background-color: #2b72e6;
+}
+
+.footer{
+	background-color: #1b1b1b;
+	padding: 100px 0;
+}
+.redes{
+	padding: 0;
+}
+.redes li{
+	display: inline;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+.bf-title{
+	padding: 10px 0;
+	color: #bababa;
+}
+.bf-text{
+	color: #bababa;
+}
+.bf-redes{
+	padding: 20px 0;
+	color: #bababa;
+}
+.sticky-top{
+	position: sticky;
+    top: 0;
+    z-index: 1020;
+}
